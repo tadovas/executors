@@ -6,4 +6,3 @@ type Executor interface {
 	Execute(Task)
 	Shutdown()
 }
-
